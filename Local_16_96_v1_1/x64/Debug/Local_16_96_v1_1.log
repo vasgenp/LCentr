@@ -1,0 +1,38 @@
+﻿Build started 11/20/2016 5:22:05 PM.
+     1>Project "C:\_dvlpmnt\_LCentric\Local_16_96_v1_1\Local_16_96_v1_1.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /IC:\_dvlpmnt\Local_16_96_v1_1\SystemDepository /ZI /nologo /W3 /WX- /sdl /Od /D _WINDOWS /D _DEBUG /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yc"stdafx.h" /Fp"x64\Debug\Local_16_96_v1_1.pch" /Fo"x64\Debug\\" /Fd"x64\Debug\vc140.pdb" /Gd /TP /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /IC:\_dvlpmnt\Local_16_96_v1_1\SystemDepository /ZI /nologo /W3 /WX- /sdl /Od /D _WINDOWS /D _DEBUG /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"x64\Debug\Local_16_96_v1_1.pch" /Fo"x64\Debug\\" /Fd"x64\Debug\vc140.pdb" /Gd /TP /errorReport:prompt AlgDefenderRsrcs.cpp AlgLocal1.cpp AlgorithmBase.cpp LocalBase.cpp Local_16_96_v1_1.cpp Local_16_96_v1_1Dlg.cpp
+         Local_16_96_v1_1Dlg.cpp
+         Local_16_96_v1_1.cpp
+         LocalBase.cpp
+         AlgorithmBase.cpp
+     1>c:\_dvlpmnt\_lcentric\local_16_96_v1_1\algorithmbase.cpp(52): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+     1>c:\_dvlpmnt\_lcentric\local_16_96_v1_1\algorithmbase.cpp(282): warning C4101: 'k': unreferenced local variable
+         AlgLocal1.cpp
+         AlgDefenderRsrcs.cpp
+     1>c:\_dvlpmnt\_lcentric\local_16_96_v1_1\algdefenderrsrcs.cpp(219): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+     1>c:\_dvlpmnt\_lcentric\local_16_96_v1_1\algdefenderrsrcs.cpp(222): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+     1>c:\_dvlpmnt\_lcentric\local_16_96_v1_1\algdefenderrsrcs.cpp(227): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+     1>c:\_dvlpmnt\_lcentric\local_16_96_v1_1\algdefenderrsrcs.cpp(942): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+     1>c:\_dvlpmnt\_lcentric\local_16_96_v1_1\algdefenderrsrcs.cpp(943): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+     1>c:\_dvlpmnt\_lcentric\local_16_96_v1_1\algdefenderrsrcs.cpp(1633): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+         Generating Code...
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D _DEBUG /l"0x0409" /Ix64\Debug\ /nologo /fo"x64\Debug\Local_16_96_v1_1.res" Local_16_96_v1_1.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\_dvlpmnt\_LCentric\x64\Debug\Local_16_96_v1_1.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\Include\Manifest\dpiaware.manifest" /Debug /PDB:"C:\_dvlpmnt\_LCentric\x64\Debug\Local_16_96_v1_1.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\_dvlpmnt\_LCentric\x64\Debug\Local_16_96_v1_1.lib" /MACHINE:X64 x64\Debug\Local_16_96_v1_1.res
+         x64\Debug\AlgDefenderRsrcs.obj
+         x64\Debug\AlgLocal1.obj
+         x64\Debug\AlgorithmBase.obj
+         x64\Debug\LocalBase.obj
+         x64\Debug\Local_16_96_v1_1.obj
+         x64\Debug\Local_16_96_v1_1Dlg.obj
+         x64\Debug\stdafx.obj
+         Local_16_96_v1_1.vcxproj -> C:\_dvlpmnt\_LCentric\x64\Debug\Local_16_96_v1_1.exe
+     1>Done Building Project "C:\_dvlpmnt\_LCentric\Local_16_96_v1_1\Local_16_96_v1_1.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:28.65

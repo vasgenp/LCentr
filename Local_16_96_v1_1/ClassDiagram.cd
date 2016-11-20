@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CAboutDlg" Collapsed="true">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAABAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Local_16_96_v1_1Dlg.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AlgDefenderRsrcs">
+    <Position X="0.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>NaQWyMAmEkYAEFAGBCgpQ+CiRIg1AEqAEI4MgC1ARAk=</HashCode>
+      <FileName>AlgDefenderRsrcs.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AlgLocal1">
+    <Position X="2.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAABACAAAAAAAAAAAAAADAAAAAEAAAAAQIABAAAAAAA=</HashCode>
+      <FileName>AlgLocal1.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AlgorithmBase" Collapsed="true">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAgkYBAQAEFAAQAECBAYAgQhuEQAAYYYCEAHEBWRgAI=</HashCode>
+      <FileName>AlgorithmBase.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LocalBase" Collapsed="true">
+    <Position X="5.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAECAAAAAAAAAEAAAAAAAAAAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>LocalBase.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CLocal_16_96_v1_1App" Collapsed="true">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>Local_16_96_v1_1.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CLocal_16_96_v1_1Dlg" Collapsed="true">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EILCIAEIBEAgAAEAABDAAAAAAAgECAUAAIAAAAAZAAA=</HashCode>
+      <FileName>Local_16_96_v1_1Dlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Typedef Name="fV" Collapsed="true">
+    <Position X="7" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AlgDefenderRsrcs.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="iV" Collapsed="true">
+    <Position X="5.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AlgDefenderRsrcs.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="fL" Collapsed="true">
+    <Position X="5.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AlgDefenderRsrcs.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="iL" Collapsed="true">
+    <Position X="8.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AlgDefenderRsrcs.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="vfV" Collapsed="true">
+    <Position X="5.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AlgDefenderRsrcs.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="sV" Collapsed="true">
+    <Position X="8.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Local_16_96_v1_1Dlg.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="SLIST" Collapsed="true">
+    <Position X="7" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Local_16_96_v1_1Dlg.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
