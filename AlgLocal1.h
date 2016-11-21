@@ -54,6 +54,11 @@ public:
 	char name_fil[MAXPATH] = { "NO" }, name_in[MAXPATH];
 	DWORD TimB, TimE;
 
+  // 
+  /** 
+  Overriden base Init() 
+  */
+  int Init();
 };
 
 

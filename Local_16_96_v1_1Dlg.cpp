@@ -158,7 +158,7 @@ BOOL CLocal_16_96_v1_1Dlg::OnInitDialog()
   InitCCBox(m_CBxDefndDegradadModel, m_vDegradationModels);
   InitCCBox(m_CBxDefndMandConstrns, m_vMandatoryConstrainsModels);
   InitCCBox(m_CBxAlgTypeSelector, m_vCbxAlgTypes);
-  m_CBxAlgTypeSelector.SetCurSel(2);//Defenders
+  m_CBxAlgTypeSelector.SetCurSel(1);//Local//Defenders
 
 
  
@@ -244,7 +244,7 @@ void CLocal_16_96_v1_1Dlg::OnBnClickedBtnStartCalc()
   if (1 == curSel)
   {
     AlgLocal1 AL;  //!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-    AL.init(); //!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+    AL.Init(); //!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
     AL.local(); //!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
     AL.count_eff(AL.MG); //!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
   }
