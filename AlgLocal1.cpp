@@ -22,6 +22,7 @@ AlgLocal1::AlgLocal1()
 
 AlgLocal1::~AlgLocal1()
 {
+  int a(0);//Init();
 }
 
 
@@ -207,4 +208,17 @@ int AlgLocal1::AddInc(int & goal,int & res)
 	}
 
 	return 0;
+}
+
+
+// /** Overriden base Init() */
+int AlgLocal1::Init()
+{
+//  this->Log(o);
+
+  o.str("");
+  o << "\n -----------------The first version of the init - inherited from the AlgorithmBase-----------------\n ";
+  TRACE( _T(o.str().c_str())); 
+  init();
+  return 0;
 }

@@ -74,6 +74,11 @@ public:
 	int num_cycl, num_var;
 	ostringstream o;
 
+  /**
+  Init for the Local will be overriden in order to provide 3 options:\n
+  a) execution from the library of dll (existing in the load directory)
+  b) init for the substitution of the dll's fuctions to generated lately.  
+  */
 	int init();
   
 	int ReportType1();//While iterating
